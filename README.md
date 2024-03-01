@@ -1,6 +1,13 @@
+
 # myzticx - Web Developer 🚀
 
-![Myzticx Logo](https://avatars.githubusercontent.com/u/131876951?s=400&u=95d405148e4a5c459144b63613469edfd39a6a3e&v=4)
+<img src="./header.png" alt="Myzticx Logo" style="width: 100%; height: auto;">
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=myzticx&show_icons=true&theme=radical&hide=contribs,prs" style="width: 120%; height: 120%;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myzticx&layout=compact&theme=radical" style="width: 120%; height: 120%;">
 
 ## Introduction
 
@@ -26,11 +33,6 @@ Here are some of my noteworthy projects:
 
 Feel free to explore these projects to get a closer look at my coding style and project structures.
 
-## GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myzticx&show_icons=true&theme=radical&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myzticx&layout=compact&theme=radical)](https://github.com/myzticx)
 
 ## Connect with Me
 
