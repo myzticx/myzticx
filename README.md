@@ -1,16 +1,42 @@
-### Hi there 👋
+# myzticx - Web Developer 🚀
 
-<!--
-**myzticx/myzticx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Myzticx Logo](https://avatars.githubusercontent.com/u/131876951?s=400&u=95d405148e4a5c459144b63613469edfd39a6a3e&v=4)
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! 👋 I'm myzticx, also known as Nav, a passionate web developer with expertise in JavaScript (JS), TypeScript (TSX), HTML, CSS, and React. I love crafting elegant and interactive web applications.
+
+## Skills
+
+🌐 **JavaScript (JS)**
+🔷 **TypeScript (TSX)**
+😃 **HTML**
+🎨 **CSS**
+⚛️ **React**
+
+## Projects
+
+Here are some of my noteworthy projects:
+
+
+1. **OrbitalOreo**
+   - Description: Brief description of the project.
+   - GitHub: [Project Two Repository](https://github.com/myzticx/OribitalOreo)
+
+
+Feel free to explore these projects to get a closer look at my coding style and project structures.
+
+## GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myzticx&show_icons=true&theme=radical&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myzticx&layout=compact&theme=radical)](https://github.com/myzticx)
+
+## Connect with Me
+
+- GitHub: [Myzticx on GitHub](https://github.com/myzticx)
+
+
+---
+
+Thank you for visiting! Happy coding! 🚀
