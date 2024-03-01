@@ -20,7 +20,7 @@ Here are some of my noteworthy projects:
 
 
 1. **OrbitalOreo**
-   - Description: Brief description of the project.
+   - Description: OrbitalOreo an amazing discord bot in the works that helps you with programming. Made by myzticx.
    - GitHub: [Project Two Repository](https://github.com/myzticx/OribitalOreo)
 
 
