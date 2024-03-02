@@ -1,5 +1,5 @@
 
-myzticx - Web Developer 🚀
+## myzticx - Web Developer 🚀 ##
 
 <img src="./header.png" alt="Header" style="width: 100%; height: auto;">
 
