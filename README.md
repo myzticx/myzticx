@@ -1,5 +1,5 @@
 
-# Hi im Nav aka myzticx - Web Developer 🚀
+# Hi 👋 im Nav aka myzticx! - Web Developer 🚀
 
 <img src="./header.png" alt="Myzticx Logo" style="width: 100%; height: auto;">
 
