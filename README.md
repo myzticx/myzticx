@@ -1,7 +1,7 @@
 
-# Hi 👋 im Nav aka myzticx! - Web Developer 🚀
+myzticx - Web Developer 🚀
 
-<img src="./header.png" alt="Myzticx Logo" style="width: 100%; height: auto;">
+<img src="./header.png" alt="Header" style="width: 100%; height: auto;">
 
 ## GitHub Stats
 
